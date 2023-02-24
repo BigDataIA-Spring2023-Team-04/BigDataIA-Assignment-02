@@ -1,6 +1,14 @@
 [![Continuous Integration - FastAPI](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/fastapi.yml/badge.svg?branch=lokesh)](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/fastapi.yml)
 [![Continuous Integration - UnitTesting](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/pytest.yml/badge.svg?branch=lokesh)](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/pytest.yml)
 
+## Team Information and Contribution 
+
+Name | NUID | Contribution 
+--- | --- | --- |
+Karan Agrawal | 001090008 | 25% 
+Rishabh Singh | 002743830 | 25% 
+Lokeshwaran Venugopal Balamurugan | 002990533 | 25% 
+Sivaranjani S | 002742197 | 25% 
 
 
 # Link to Live Applications
