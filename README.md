@@ -1,6 +1,8 @@
 [![Continuous Integration - FastAPI](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/fastapi.yml/badge.svg?branch=lokesh)](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/fastapi.yml)
 [![Continuous Integration - UnitTesting](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/pytest.yml/badge.svg?branch=lokesh)](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/pytest.yml)
 
+
+
 # Link to Live Applications
 - Streamlit Application - http://34.138.127.169:8000
 - FAST API Swagger - http://34.138.127.169:8090/docs
