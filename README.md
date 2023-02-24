@@ -1,12 +1,13 @@
 [![Continuous Integration - FastAPI](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/fastapi.yml/badge.svg?branch=lokesh)](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/fastapi.yml)
 [![Continuous Integration - UnitTesting](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/pytest.yml/badge.svg?branch=lokesh)](https://github.com/BigDataIA-Spring2023-Team-04/Assignment-2/actions/workflows/pytest.yml)
-[![Codelabs] (https://codelabs-preview.appspot.com/?file_id=1gsAswrJAOnjFcGvwVnXr3FeQ8RwgIqtXCtZhtMJpajI#1)
+
 
 
 # Link to Live Applications
 - Streamlit Application - http://34.138.127.169:8000
 - FAST API Swagger - http://34.138.127.169:8090/docs
 - Airflow - http://34.138.127.169:8080
+- Codelabs - https://codelabs-preview.appspot.com/?file_id=1gsAswrJAOnjFcGvwVnXr3FeQ8RwgIqtXCtZhtMJpajI#1
 
 # Project Tree
 ```
