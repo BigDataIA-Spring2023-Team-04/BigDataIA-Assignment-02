@@ -157,18 +157,18 @@ To run this project, you will need:
 - The AWS Access and Secret keys should be passed as environment variables in the Docker Compose file. (The .env file must be present in both "app" directory created for airlfow and in the other directory created for streamlit & fastapi).
 
 ### .env file for airflow:
-- AWS_ACCESS_KEY=<aws_access_key>
-- AWS_SECRET_KEY=<aws_secret_key>
+- AWS_ACCESS_KEY=<aws_access_key> <- should be given in double quotes ("")
+- AWS_SECRET_KEY=<aws_secret_key> <- should be given in double quotes ("")
 
 ### .env file for fastapi and streamlit:
-- AWS_ACCESS_KEY=<aws_access_key>
-- AWS_SECRET_KEY=<aws_secret_key>
-- AWS_LOG_ACCESS_KEY=<aws_log_access_key>
-- AWS_LOG_SECRET_KEY=<aws_log_secret_key>
+- AWS_ACCESS_KEY=<aws_access_key> <- should be given in double quotes ("")
+- AWS_SECRET_KEY=<aws_secret_key> <- should be given in double quotes ("")
+- AWS_LOG_ACCESS_KEY=<aws_log_access_key> <- should be given in double quotes ("")
+- AWS_LOG_SECRET_KEY=<aws_log_secret_key> <- should be given in double quotes ("")
 
-- SECRET_KEY=<>
-- ALGORITHM=<>
-- ACCESS_TOKEN_EXPIRE_MINUTES=<token_validity_time_as_per_your_wish>
+- SECRET_KEY = "09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7"
+- ALGORITHM = "HS256"
+- ACCESS_TOKEN_EXPIRE_MINUTES=<token_validity_time_as_per_your_wish> <- eg: "30"
 
 # Usage
 
