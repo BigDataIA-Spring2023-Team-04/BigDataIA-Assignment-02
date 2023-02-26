@@ -176,8 +176,8 @@ To run this project, you will need:
 - Log in using your username ("damg7245") and password ("spring2023") or create a new user using the signup option.
 - Search for the GOES-18 or NEXRAD file by passing the file parameters or file name.
 - Once you select a file to download, you have two options:
-- Download the file from the respective S3 bucket.
-- Click on the copy button to download the file to our S3 bucket and get the download link for this. Logging is done on CloudWatch for all the files that are downloaded to our S3 bucket.
+  1) Download the file from the respective S3 bucket.
+  2) Click on the copy button to download the file to our S3 bucket and get the download link for this. Logging is done on CloudWatch for all the files that are downloaded to our S3 bucket.
 
 # API Endpoint Description
  - /get_goes_url (POST): Given a filename, the endpoint generates the S3 URL for the corresponding file hosted on the GOES-18 S3 bucket. If the file is not found, an HTTP 404 error is returned. This endpoint also checks for the file format and raises an HTTP 400 error if the format is incorrect.
